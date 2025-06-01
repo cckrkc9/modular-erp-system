@@ -1,4 +1,4 @@
-package com.cancikrikci.app;
+package com.cancikrikci.app.payroll;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
